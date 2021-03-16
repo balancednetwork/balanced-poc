@@ -1,4 +1,7 @@
-# Balanced Contracts
+# Balanced POC
+
+This is a proof-of-concept repository for BALN, and is not under active development. Do not use it.
+
 
 ## Basic Loans PoC on Testnet
 
